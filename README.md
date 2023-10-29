@@ -12,9 +12,7 @@ This is a simple Snake game implemented in HTML, CSS, and JavaScript. It feature
 - The game ends if the snake collides with the screen borders or itself.
 - You can restart the game by pressing any arrow key after it ends.
 
-## Live Demo
 
-You can play the game live by visiting the following link: [Play Snake Game](https://your-game-url-here.com)
 
 ![Snake Game Screenshot 2](Screenshot(76).png)
 
