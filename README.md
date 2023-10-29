@@ -1,6 +1,6 @@
 # Snake Game
 
-![Snake Game Screenshot 1](screenshot75.png)
+![Snake Game Screenshot 1](https://github.com/ab9106/Snake-game/blob/main/Screenshot%20(75).png)
 
 
 This is a simple Snake game implemented in HTML, CSS, and JavaScript. It features a colorful and animated background and keeps track of your score as you control the snake to eat apples.
@@ -14,7 +14,7 @@ This is a simple Snake game implemented in HTML, CSS, and JavaScript. It feature
 - You can restart the game by pressing any arrow key after it ends.
 
 
-![Snake Game Screenshot 2](screenshot76.png)
+![Snake Game Screenshot 2](https://github.com/ab9106/Snake-game/blob/main/Screenshot%20(76).png)
 
 
 ## Development
@@ -28,7 +28,7 @@ You can customize the game further by modifying the code:
 - Change the colors of the snake, apple, or background.
 - Customize the animation duration and speed in the CSS.
 
-![Snake Game Screenshot 3](screenshot77.png)
+![Snake Game Screenshot 3](https://github.com/ab9106/Snake-game/blob/main/Screenshot%20(77).png)
 
 ## Video Demonstration
 
