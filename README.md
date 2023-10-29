@@ -30,11 +30,7 @@ You can customize the game further by modifying the code:
 
 ![Snake Game Screenshot 3](https://github.com/ab9106/Snake-game/blob/main/Screenshot%20(77).png)
 
-## Video Demo
 
-Check out a video demo of the Snake Game on YouTube:
-
-[![Snake Game Demo](https://drive.google.com/file/d/1hOxRavVXmq_FEpfO3NJWPtZitkvsCd6f/view?usp=sharing)
 
 
 
